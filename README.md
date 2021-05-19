@@ -1,3 +1,6 @@
+kubemci: инструмент командной строки для настройки балансировщиков нагрузки L7 с использованием нескольких кластеров kubernetes
+https://github.com/GoogleCloudPlatform/k8s-multicluster-ingress
+
 # kubemci
 
 [![GoReportCard Widget]][GoReportCard] [![Coveralls Widget]][Coveralls] [![GoDoc Widget]][GoDoc] [![Slack Widget]][Slack]
